@@ -5,9 +5,9 @@
 - **Facultad:** De ingenieria electrica, electronica, informatica y mecanica
 - **Escuela Profesional:** Ingenieria Informatica y de Sistemas
 #### Docente de Teoria:
-- **Ing. Quintanilla Portugal Roxana Lisette**
+- **Ing. MARIA DEL PILAR VENEGAS VERGARA**
 #### Docente de Laboratorio
-- **Ing. Vittali Quispe Surco**
+- **Ing. GERAR FRANCIS QUISPE TORRES**
 #### Colaboradores:
 - **CUETO SANCHEZ CARLA PALOMA** [PALOMA](https://github.com/carlasanchez15)
 - **HUAHUATICO SORIA RONALD** [RONALD](https://github.com/Romehe369)
