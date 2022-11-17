@@ -1,4 +1,4 @@
-# Lab-Ing-Software-I
+# Sistema de detección temprana de deserción estudiantil
 ### Datos Academicos
 
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco
